@@ -1,0 +1,30 @@
+---
+title: Kasperdemo
+keywords: 
+avatar: /_image/avatar.jpg
+posts_per_page: 
+post_content_type: markdown
+post_paragraph_indent: no
+file_path: /
+show_toc: no
+mathjax: no
+disqus: timewilltellme
+duoshuo: 
+template_priority: auto
+template_inherit: yes
+template_clone_allowed: yes
+autoreload: auto
+scripts_per_page: 
+scripts_for_doc: 
+auto_image: no
+nano: no
+comment: no
+sync_by_3rd: no
+sync_by_3rd_public: no
+score_degree: 
+hidden_urls: 
+users: 
+domain: kasperdemo.farbox.com
+domains: 
+---
+just another farbox theme.
